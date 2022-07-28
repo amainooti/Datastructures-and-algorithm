@@ -1,6 +1,7 @@
 """
 Using Grokking algorithm book as a study material
 Lesson One binary search algorithm
+it has a big O of O(logn)
 """
 
 
@@ -21,8 +22,7 @@ def binary_search(list, item):
     return None
 
 
-my_list = ["antman", "batman", "cat woman",
-           "captain america", "ironman", "zerks"]
+my_list = [1, 2, 3, 4, 5, 6, 7]
 
 
 print(binary_search(my_list, 3))
