@@ -2,6 +2,7 @@
     SELECTION SORT ALGORITHM
     This algorithm checks every element for either the largest or the smallest number
     and does this n number of times until it sorts the list. It has a big O of O(n x n)
+    or O(n^2)
 '''
 
 # find the smallest number
